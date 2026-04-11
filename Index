@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>All Afrika Merchants</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #0f172a;
+      color: white;
+    }
+    header {
+      padding: 20px;
+      text-align: center;
+      background: #020617;
+    }
+    h1 {
+      margin: 0;
+    }
+    .hero {
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .btn {
+      background: #22c55e;
+      padding: 12px 20px;
+      color: black;
+      text-decoration: none;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #020617;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>All Afrika Merchants</h1>
+  <p>Connecting African Trade Globally</p>
+</header>
+
+<section class="hero">
+  <h2>Welcome to Our Platform</h2>
+  <p>We deal in import, export, and supply of quality goods across Africa.</p>
+  <a href="#" class="btn">Contact Us</a>
+</section>
+
+<footer>
+  <p>© 2026 All Afrika Merchants</p>
+</footer>
+
+</body>
+</html>
